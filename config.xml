@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
-        id          = "http://instagram.com/"
-        version     = "url"
+        id          = "com.maleo.instagram"
+        version     = "0.0.1"
         height      = "700"
         width       = "500">
  
@@ -10,14 +10,15 @@
   </name>
 
   <description>
+	Instagram Running From Maleo
   </description>
 
   <author href="http://instagram.com">Instagram</author>
 
-  <icon src="/home/cho2/komodo-for-android/source/instagram.svg"/>
+  <icon src="instagram.svg"/>
   <content src="index.html"/>
 
   <license>
-    (c) 2014, Instagram
+    (c) 2015, Instagram
   </license>
 </widget>
