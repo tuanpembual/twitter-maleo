@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
-        id          = "com.maleo.instagram"
+        id          = "com.maleo.twitter"
         version     = "0.0.1"
         height      = "700"
         width       = "500">
  
-  <name short="Instagram">
-    Instagram
+  <name short="Twitter">
+    Twitter
   </name>
 
   <description>
-	Instagram Running From Maleo
+	Twitter Running From Maleo
   </description>
 
-  <author href="http://instagram.com">Instagram</author>
+  <author href="http://twitter.com">Twitter</author>
 
-  <icon src="instagram.svg"/>
   <content src="index.html"/>
 
   <license>
-    (c) 2015, Instagram
+    (c) 2015, Twitter
   </license>
 </widget>
